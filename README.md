@@ -8,7 +8,7 @@ Documentation of the steps to run Hashcat on Ubuntu 20.04 terminal for cracking 
     
 2. Creating directories
     
-    • create a main directory that would contain the project files: mkdir gshc
+    • create a main directory that would contain the project files: ` mkdir gshc `
     
     • create a sub-directory that would have wordlists, output & input files: mkdir skull
     
