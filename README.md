@@ -31,7 +31,6 @@ Documentation of the steps to run Hashcat on Ubuntu 20.04 terminal for cracking 
         ` gshc/skull$ sudo cat output.txt `
 
 # 
--------------------------------------------------------------------------------------
 
 **Results Obtained:**
 
