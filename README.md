@@ -30,8 +30,8 @@ Documentation of the steps to run Hashcat on Ubuntu 20.04 terminal for cracking 
     • the output was written to the output.txt file, which was displayed using:
         ` gshc/skull$ sudo cat output.txt `
 
-# ----------------------------------------------------------------------------------------
-
+# 
+-------------------------------------------------------------------------------------
 
 **Results Obtained:**
 
