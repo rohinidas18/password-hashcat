@@ -32,7 +32,7 @@ Documentation of the steps to run Hashcat on Ubuntu 20.04 terminal for cracking 
 
 # 
 
-**Results Obtained:**
+## **Results Obtained:**
 
     e10adc3949ba59abbe56e057f20f883e:123456
     25f9e794323b453885f5181f1b624d0b:123456789
